@@ -1,8 +1,6 @@
 # Quantum-Computing-Projects
 A collection of quantum computing projects
 
-# Quantum Computing Projects
-
 This repository showcases a collection of cutting-edge quantum computing projects, categorized by industry demand and growing importance. These projects will help you learn practical quantum computing concepts, prepare for roles in quantum tech industries, and boost your understanding of quantum algorithms.
 
 ## Table of Contents
